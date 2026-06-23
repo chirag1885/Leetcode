@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chirag1885/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0994-rotting-oranges](https://github.com/chirag1885/Leetcode/tree/master/0994-rotting-oranges) |
 ## Queue
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chirag1885/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/chirag1885/Leetcode/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/chirag1885/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
