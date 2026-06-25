@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/chirag1885/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chirag1885/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chirag1885/Leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chirag1885/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/chirag1885/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/chirag1885/Leetcode/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/chirag1885/Leetcode/tree/master/0994-rotting-oranges) |
@@ -59,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/chirag1885/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chirag1885/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chirag1885/Leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chirag1885/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/chirag1885/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
