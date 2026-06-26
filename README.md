@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chirag1885/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/chirag1885/Leetcode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/chirag1885/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -97,5 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/chirag1885/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/chirag1885/Leetcode/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/chirag1885/Leetcode/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/chirag1885/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
