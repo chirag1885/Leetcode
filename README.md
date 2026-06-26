@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chirag1885/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chirag1885/Leetcode/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/chirag1885/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/chirag1885/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chirag1885/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/chirag1885/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/chirag1885/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/chirag1885/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chirag1885/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/chirag1885/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/chirag1885/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/chirag1885/Leetcode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/chirag1885/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/chirag1885/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/chirag1885/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chirag1885/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chirag1885/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/chirag1885/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
