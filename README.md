@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag1885/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chirag1885/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/chirag1885/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/chirag1885/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chirag1885/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/chirag1885/Leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/chirag1885/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chirag1885/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/chirag1885/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/chirag1885/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chirag1885/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/chirag1885/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/chirag1885/Leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/chirag1885/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/chirag1885/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/chirag1885/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
