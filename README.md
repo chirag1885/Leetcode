@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chirag1885/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/chirag1885/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chirag1885/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chirag1885/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/chirag1885/Leetcode/tree/master/0213-house-robber-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chirag1885/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/chirag1885/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chirag1885/Leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chirag1885/Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/chirag1885/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
