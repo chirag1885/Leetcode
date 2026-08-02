@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chirag1885/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/chirag1885/Leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chirag1885/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/chirag1885/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/chirag1885/Leetcode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/chirag1885/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/chirag1885/Leetcode/tree/master/0733-flood-fill) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/chirag1885/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/chirag1885/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0518-coin-change-ii](https://github.com/chirag1885/Leetcode/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/chirag1885/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/chirag1885/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/chirag1885/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/chirag1885/Leetcode/tree/master/1048-longest-string-chain) |
@@ -369,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chirag1885/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/chirag1885/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/chirag1885/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/chirag1885/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
