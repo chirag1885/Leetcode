@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag1885/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirag1885/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/chirag1885/Leetcode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/chirag1885/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/chirag1885/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/chirag1885/Leetcode/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chirag1885/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chirag1885/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/chirag1885/Leetcode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/chirag1885/Leetcode/tree/master/0796-rotate-string) |
 ## Binary Search Tree
 |  |
 | ------- |
