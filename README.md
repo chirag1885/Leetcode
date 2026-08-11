@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/chirag1885/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chirag1885/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/chirag1885/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1903-largest-odd-number-in-string](https://github.com/chirag1885/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/chirag1885/Leetcode/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chirag1885/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chirag1885/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/chirag1885/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chirag1885/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/chirag1885/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1903-largest-odd-number-in-string](https://github.com/chirag1885/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
