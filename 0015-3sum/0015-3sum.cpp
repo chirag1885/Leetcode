@@ -1,3 +1,10 @@
+
+// -4,-1,-1,0,1,2
+//          i           
+//          j
+//             k
+// sum=-1<0
+
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
