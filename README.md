@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chirag1885/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chirag1885/Leetcode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/chirag1885/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/chirag1885/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/chirag1885/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/chirag1885/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chirag1885/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chirag1885/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/chirag1885/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chirag1885/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/chirag1885/Leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/chirag1885/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1903-largest-odd-number-in-string](https://github.com/chirag1885/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chirag1885/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/chirag1885/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/chirag1885/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/chirag1885/Leetcode/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chirag1885/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/chirag1885/Leetcode/tree/master/1048-longest-string-chain) |
 ## Divide and Conquer
