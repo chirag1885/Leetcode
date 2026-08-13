@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/chirag1885/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chirag1885/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/chirag1885/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/chirag1885/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chirag1885/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/chirag1885/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/chirag1885/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chirag1885/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chirag1885/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chirag1885/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/chirag1885/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chirag1885/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chirag1885/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/chirag1885/Leetcode/tree/master/0704-binary-search) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chirag1885/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/chirag1885/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chirag1885/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chirag1885/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirag1885/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/chirag1885/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/chirag1885/Leetcode/tree/master/0460-lfu-cache) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chirag1885/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/chirag1885/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chirag1885/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/chirag1885/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/chirag1885/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chirag1885/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/chirag1885/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chirag1885/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chirag1885/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/chirag1885/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/chirag1885/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1903-largest-odd-number-in-string](https://github.com/chirag1885/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -470,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/chirag1885/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chirag1885/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chirag1885/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
